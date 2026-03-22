@@ -1,1 +1,1 @@
-player.load("data/bmmLoader.swf");
+player.load("game/bmmLoader.swf");
